@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginSignup</string>
+    <string-array name="role">
+        <item>Citizen</item>
+        <item>Planner or decision maker</item>
+    </string-array>
+</resources>
